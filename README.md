@@ -6,7 +6,7 @@
 
 # Olá, sou Ricardo Castro.
 
-**Construo e mantenho sistemas, cuido da infraestrutura que os sustenta e formo quem vai fazer o mesmo.**
+**Construo e mantenho sistemas, cuido da infraestrutura que os sustenta e formo quem vai fazer o mesmo.**<br>
 Analista de Informática, desenvolvedor e professor de Educação Profissional e Tecnológica, em Blumenau (SC).
 
 <p>
@@ -19,11 +19,15 @@ Analista de Informática, desenvolvedor e professor de Educação Profissional e
 
 ## Sobre mim
 
-Sou bacharel em Sistemas de Informação pela FURB e pós-graduado em Docência para a Educação Profissional e Tecnológica e em Desenvolvimento de Sistemas com Python. Atuo como Analista de Informática em uma autarquia municipal, onde desenvolvo e evoluo aplicações web, modernizo sistemas legados, administro servidores Linux e Windows e cuido de bancos de dados, integrações e automação de processos.
+<div align="justify">
+
+Sou bacharel em Sistemas de Informação pela FURB e pós-graduado em Docência para a Educação Profissional e Tecnológica e em Desenvolvimento de Sistemas com Python. Atuo como Analista de Informática em uma autarquia municipal, onde desenvolvo e aprimoro aplicações web, modernizo sistemas legados, administro servidores Linux e Windows e cuido de bancos de dados, integrações e automação de processos.
 
 Em paralelo, leciono programação e sistemas de informação no ensino técnico e já orientei curso técnico em Desenvolvimento de Sistemas. Essa combinação me dá uma visão prática do ciclo completo: entender o problema, construir a solução, colocá-la em produção e explicar como ela funciona.
 
 Sob a marca **RMC Labs**, desenvolvo projetos independentes e atendo pequenos negócios com sites, automações e melhorias em sistemas existentes.
+
+</div>
 
 <br>
 
@@ -31,15 +35,15 @@ Sob a marca **RMC Labs**, desenvolvo projetos independentes e atendo pequenos ne
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="justify">
       <h3>Desenvolvimento de Software</h3>
       Construção, manutenção e evolução de aplicações web e sistemas de gestão, com foco em código sustentável e no problema que precisa ser resolvido.
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="justify">
       <h3>Infraestrutura e Sistemas</h3>
       Administração de servidores, bancos de dados, redes e serviços; integração entre sistemas e modernização de soluções legadas.
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="justify">
       <h3>Educação e Conhecimento</h3>
       Formação técnica em programação e sistemas, orientação de laboratórios e documentação que ajuda outras pessoas a entender e manter o que foi feito.
     </td>
@@ -50,7 +54,15 @@ Sob a marca **RMC Labs**, desenvolvo projetos independentes e atendo pequenos ne
 
 ## Competências
 
-| Área | Hard skills |
+<div align="justify">
+
+Competências que aplico no trabalho e em projetos, agrupadas pelas mesmas áreas de atuação acima. As cores seguem a identidade visual: ciano para desenvolvimento, marinho para infraestrutura e azul para educação.
+
+</div>
+
+**Hard skills**
+
+| Área | Competências |
 | :-- | :-- |
 | **Desenvolvimento** | ![Desenvolvimento web](https://img.shields.io/badge/Desenvolvimento_web-0891B2?style=flat-square) ![Sistemas de gestão](https://img.shields.io/badge/Sistemas_de_gest%C3%A3o-0891B2?style=flat-square) ![Modelagem de bancos de dados](https://img.shields.io/badge/Modelagem_de_bancos_de_dados-0891B2?style=flat-square) ![Automação de processos](https://img.shields.io/badge/Automa%C3%A7%C3%A3o_de_processos-0891B2?style=flat-square) |
 | **Infraestrutura** | ![Administração de servidores Linux e Windows](https://img.shields.io/badge/Administra%C3%A7%C3%A3o_de_servidores_Linux_e_Windows-1E3A5F?style=flat-square) ![Redes e virtualização](https://img.shields.io/badge/Redes_e_virtualiza%C3%A7%C3%A3o-1E3A5F?style=flat-square) ![Integração de sistemas](https://img.shields.io/badge/Integra%C3%A7%C3%A3o_de_sistemas-1E3A5F?style=flat-square) ![Modernização de sistemas legados](https://img.shields.io/badge/Moderniza%C3%A7%C3%A3o_de_sistemas_legados-1E3A5F?style=flat-square) ![Gestão de serviços de TI](https://img.shields.io/badge/Gest%C3%A3o_de_servi%C3%A7os_de_TI-1E3A5F?style=flat-square) |
@@ -64,7 +76,11 @@ Sob a marca **RMC Labs**, desenvolvo projetos independentes e atendo pequenos ne
 
 ## Tecnologias
 
+<div align="justify">
+
 As tecnologias abaixo estão separadas conforme o uso real: o que aplico em projetos e no trabalho, o que estou adotando em projetos em andamento e o que explorei em estudos.
+
+</div>
 
 | Área | Em uso | Em adoção | Em estudo |
 | :-- | :-- | :-- | :-- |
@@ -78,31 +94,43 @@ As tecnologias abaixo estão separadas conforme o uso real: o que aplico em proj
 
 ## Projetos em destaque
 
+<div align="justify">
+
 ### RMC Labs — Portal profissional
+
 Site institucional que reúne portfólio, serviços e canal de contato para pequenos negócios: sites, automação de processos e manutenção de aplicações web, principalmente em PHP com bancos relacionais.
 
 **Status:** publicado · [ricardormcastro.com.br](https://www.ricardormcastro.com.br/)
 
 ### Plataforma SaaS para atendimento veterinário domiciliar
+
 Aplicação web para médicos-veterinários que atendem em domicílio ou de forma volante: agenda, pacientes e tutores, prontuários, prescrições em PDF, controle financeiro e de insumos, em modelo multiempresa por assinatura.
 
-**Stack planejada:** PHP · Laravel · Livewire · Tailwind CSS · MySQL · **Status:** em desenvolvimento (repositório privado)
+**Status:** em desenvolvimento (repositório privado) · **Stack:** PHP · Laravel · Livewire · Tailwind CSS · MySQL
 
 ### Memória Familiar Colaborativa
-Aplicação web para preservar e organizar histórias de família: linha do tempo por pessoa, compartilhamento de fotografias com identificação de pessoas, eventos e grupos familiares distintos, aproveitando metadados EXIF (data e local) quando disponíveis.
+
+Aplicação web para preservar e organizar histórias de família: linha do tempo por pessoa, fotografias compartilhadas com identificação de pessoas, eventos e grupos familiares distintos. Aproveita metadados EXIF de data e local quando disponíveis.
 
 **Status:** projeto independente em desenvolvimento (repositório privado)
 
 ### Gestão de laboratórios de informática
-Ferramentas para ambientes de informática educacionais: inventário de equipamentos, acompanhamento de manutenção, registro de ocorrências, chamados, painéis e base de conhecimento. Experiência de prototipação e desenvolvimento nascida da rotina em laboratórios de ensino técnico.
+
+Ferramentas para ambientes de informática educacionais: inventário de equipamentos, acompanhamento de manutenção, registro de ocorrências, chamados, painéis e base de conhecimento. Nasceram da rotina em laboratórios de ensino técnico.
 
 **Status:** protótipos e ferramentas internas (repositórios privados)
+
+</div>
 
 <br>
 
 ## Estudos e laboratórios
 
+<div align="justify">
+
 Repositórios públicos de cursos, workshops e experimentos. São materiais de aprendizado que acompanham cursos de terceiros, não projetos autorais completos.
+
+</div>
 
 | Repositório | O que explora | Tecnologias |
 | :-- | :-- | :-- |
