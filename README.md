@@ -19,7 +19,7 @@ Analista de Informática, desenvolvedor e professor de Educação Profissional e
 
 ## Sobre mim
 
-Sou bacharel em Sistemas de Informação pela FURB e pós-graduado em Docência para a Educação Profissional e Tecnológica. Atuo como Analista de Informática em uma autarquia municipal, onde desenvolvo e evoluo aplicações web, modernizo sistemas legados, administro servidores Linux e Windows e cuido de bancos de dados, integrações e automação de processos.
+Sou bacharel em Sistemas de Informação pela FURB e pós-graduado em Docência para a Educação Profissional e Tecnológica e em Desenvolvimento de Sistemas com Python. Atuo como Analista de Informática em uma autarquia municipal, onde desenvolvo e evoluo aplicações web, modernizo sistemas legados, administro servidores Linux e Windows e cuido de bancos de dados, integrações e automação de processos.
 
 Em paralelo, leciono programação e sistemas de informação no ensino técnico e já orientei curso técnico em Desenvolvimento de Sistemas. Essa combinação me dá uma visão prática do ciclo completo: entender o problema, construir a solução, colocá-la em produção e explicar como ela funciona.
 
