@@ -48,6 +48,18 @@ Sob a marca **RMC Labs**, desenvolvo projetos independentes e atendo pequenos ne
 
 <br>
 
+## Competências
+
+**Hard skills**
+
+`Desenvolvimento web` `Sistemas de gestão` `Modernização de sistemas legados` `Modelagem de bancos de dados` `Integração de sistemas` `Automação de processos` `Administração de servidores Linux e Windows` `Redes e virtualização` `Gestão de serviços de TI` `Documentação técnica`
+
+**Soft skills**
+
+`Didática` `Comunicação técnica` `Resolução de problemas` `Visão do ciclo completo` `Orientação e mentoria` `Atendimento ao cliente` `Autonomia` `Aprendizado contínuo`
+
+<br>
+
 ## Tecnologias
 
 As tecnologias abaixo estão separadas conforme o uso real: o que aplico em projetos e no trabalho, o que estou adotando em projetos em andamento e o que explorei em estudos.
