@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ricardo Castro — desenvolvimento, infraestrutura e educação tecnológica. RMC Labs.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#EAF2FB"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0891B2" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#0891B2" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#0369A1" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#D5E2F0" stroke-width="1" opacity="0.55"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="300" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <!-- feixe diagonal sutil -->
+    <path d="M760,0 L1200,0 L1200,300 L560,300 Z" fill="#0891B2" opacity="0.045"/>
+    <path d="M880,0 L1200,0 L1200,300 L680,300 Z" fill="#0369A1" opacity="0.05"/>
+    <!-- linha de acento superior -->
+    <rect x="0" y="0" width="1200" height="3" fill="url(#glow)"/>
+  </g>
+
+  <!-- texto -->
+  <text x="72" y="92" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="3" fill="#0891B2">RMC LABS</text>
+  <text x="72" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#0B1F3A" letter-spacing="-0.5">Ricardo Castro</text>
+  <text x="72" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="19" fill="#475569">Analista de Informática · Desenvolvedor · Professor de Educação Profissional e Tecnológica</text>
+  
+  <g>
+    <rect x="72" y="214" rx="14" ry="14" width="156" height="28" fill="#E0F2FE" stroke="#CBD5E1"/>
+    <text x="150.0" y="233" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#0C4A6E">Desenvolvimento</text>
+  </g>
+  <g>
+    <rect x="238.0" y="214" rx="14" ry="14" width="147" height="28" fill="#E0F2FE" stroke="#CBD5E1"/>
+    <text x="311.4" y="233" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#0C4A6E">Infraestrutura</text>
+  </g>
+  <g>
+    <rect x="394.79999999999995" y="214" rx="14" ry="14" width="202" height="28" fill="#E0F2FE" stroke="#CBD5E1"/>
+    <text x="495.8" y="233" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#0C4A6E">Educação tecnológica</text>
+  </g>
+
+  <!-- monograma -->
+  
+  <g>
+    <polygon points="1105.0,112.5 1105.0,187.5 1040.0,225.0 975.0,187.5 975.0,112.5 1040.0,75.0" fill="none" stroke="#0891B2" stroke-width="12.8" stroke-linejoin="round"/>
+    <path d="M1014.5,114.0 V189.0 M1014.5,114.0 H1046.0
+             a18.0,18.0 0 0 1 0,36.0 H1014.5
+             M1037.0,150.0 L1068.5,189.0"
+          fill="none" stroke="#0B1F3A" stroke-width="12.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1068.5" cy="189.0" r="11.5" fill="#0891B2"/>
+  </g>
+  <text x="1040" y="262" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#475569">BLUMENAU · SC · BR</text>
+</svg>
