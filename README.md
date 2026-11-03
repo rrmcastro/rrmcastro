@@ -50,13 +50,15 @@ Sob a marca **RMC Labs**, desenvolvo projetos independentes e atendo pequenos ne
 
 ## Competências
 
-**Hard skills**
-
-`Desenvolvimento web` `Sistemas de gestão` `Modernização de sistemas legados` `Modelagem de bancos de dados` `Integração de sistemas` `Automação de processos` `Administração de servidores Linux e Windows` `Redes e virtualização` `Gestão de serviços de TI` `Documentação técnica`
+| Área | Hard skills |
+| :-- | :-- |
+| **Desenvolvimento** | ![Desenvolvimento web](https://img.shields.io/badge/Desenvolvimento_web-0891B2?style=flat-square) ![Sistemas de gestão](https://img.shields.io/badge/Sistemas_de_gest%C3%A3o-0891B2?style=flat-square) ![Modelagem de bancos de dados](https://img.shields.io/badge/Modelagem_de_bancos_de_dados-0891B2?style=flat-square) ![Automação de processos](https://img.shields.io/badge/Automa%C3%A7%C3%A3o_de_processos-0891B2?style=flat-square) |
+| **Infraestrutura** | ![Administração de servidores Linux e Windows](https://img.shields.io/badge/Administra%C3%A7%C3%A3o_de_servidores_Linux_e_Windows-1E3A5F?style=flat-square) ![Redes e virtualização](https://img.shields.io/badge/Redes_e_virtualiza%C3%A7%C3%A3o-1E3A5F?style=flat-square) ![Integração de sistemas](https://img.shields.io/badge/Integra%C3%A7%C3%A3o_de_sistemas-1E3A5F?style=flat-square) ![Modernização de sistemas legados](https://img.shields.io/badge/Moderniza%C3%A7%C3%A3o_de_sistemas_legados-1E3A5F?style=flat-square) ![Gestão de serviços de TI](https://img.shields.io/badge/Gest%C3%A3o_de_servi%C3%A7os_de_TI-1E3A5F?style=flat-square) |
+| **Educação** | ![Formação técnica em programação](https://img.shields.io/badge/Forma%C3%A7%C3%A3o_t%C3%A9cnica_em_programa%C3%A7%C3%A3o-0369A1?style=flat-square) ![Documentação técnica](https://img.shields.io/badge/Documenta%C3%A7%C3%A3o_t%C3%A9cnica-0369A1?style=flat-square) |
 
 **Soft skills**
 
-`Didática` `Comunicação técnica` `Resolução de problemas` `Visão do ciclo completo` `Orientação e mentoria` `Atendimento ao cliente` `Autonomia` `Aprendizado contínuo`
+![Didática](https://img.shields.io/badge/Did%C3%A1tica-475569?style=flat-square) ![Comunicação técnica](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o_t%C3%A9cnica-475569?style=flat-square) ![Resolução de problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o_de_problemas-475569?style=flat-square) ![Visão do ciclo completo](https://img.shields.io/badge/Vis%C3%A3o_do_ciclo_completo-475569?style=flat-square) ![Orientação e mentoria](https://img.shields.io/badge/Orienta%C3%A7%C3%A3o_e_mentoria-475569?style=flat-square) ![Atendimento ao cliente](https://img.shields.io/badge/Atendimento_ao_cliente-475569?style=flat-square) ![Autonomia](https://img.shields.io/badge/Autonomia-475569?style=flat-square) ![Aprendizado contínuo](https://img.shields.io/badge/Aprendizado_cont%C3%ADnuo-475569?style=flat-square)
 
 <br>
 
